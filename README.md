@@ -1,1 +1,3 @@
-# programacao_natural
+# COMPUTACAO NATURAL [Turma 01A] - 2023/2
+
+code:001ENST10216.03859-01A
