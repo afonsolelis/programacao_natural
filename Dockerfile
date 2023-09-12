@@ -1,6 +1,6 @@
 FROM jupyter/minimal-notebook
 
-# Instale as extensões do Jupyter Notebook e o suporte ao LaTeX
+# Instale as extensões do Jupyter Notebook
 RUN conda install -c conda-forge jupyter_contrib_nbextensions && \
     jupyter contrib nbextension install --sys-prefix && \
     jupyter nbextension enable equation-numbering/main && \
@@ -18,8 +18,10 @@ RUN conda install -c conda-forge jupyter_contrib_nbextensions && \
     jupyter nbextension enable spellchecker/main && \
     jupyter nbextension enable splitcell/splitcell && \
     jupyter nbextension enable notify/notify && \
-    jupyter nbextension enable keyboard_shortcut_editor/main && \
-    conda install -c anaconda nbconvert && \
+    jupyter nbextension enable keyboard_shortcut_editor/main
+
+# Instale os pacotes necessários
+RUN conda install -c anaconda nbconvert && \
     conda install -c conda-forge nbformat && \
     conda install -c anaconda pandoc
 
