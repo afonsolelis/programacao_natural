@@ -1,0 +1,54 @@
+Módulo,Tema da Aula,Antes,Depois
+5,Estruturas de Dados,docente_v,docente_a
+5,Requisitos de Segurança,docente_v,docente_j
+5,Conceitos de Blockchain e Protocolos de consenso,docente_v,docente_j
+5,Código dos Smart Contracts,docente_v,docente_a
+5,Programação front-end blockchain,docente_v,docente_v
+5,Algoritmos e Criptografia 1,docente_v,docente_v
+5,Algoritmos e Criptografia 2,docente_v,docente_a
+5,Sistemas operacionais,docente_v,docente_v
+5,Qualidade de software,docente_v,docente_v
+5,Comunicação em Sistemas Distribuídos,docente_v,docente_j
+5,Aplicações Descentralizadas,docente_v,docente_j
+5,Sistemas Distribuídos,docente_v,docente_h
+6,Introdução ao Processamento de Linguagem Natural,docente_h,docente_v
+6,"Processamento de texto, métricas e técnicas",docente_h,docente_j
+6,Biblioteca de manipulação de texto: NLTK e Spacy,docente_h,docente_j
+6,Representação de palavras e `Bag of Words` (BoW),docente_h,docente_v
+6,"NLTK, BoW e Naive Bayes para Análise de Conteúdo",docente_h,docente_h
+6,Vetores multidimensionais: Word2Vec e Gensim,docente_h,docente_a
+6,Introdução a Rede Neural,docente_h,docente_j
+6,Rede Neural com Keras (Tensorflow),docente_h,docente_a
+6,Word2Vec - Aplicação utilizando Redes Neurais,docente_h,docente_j
+6,"Outras técnicas Word Embedding: TF, TF-IDF e LSA",docente_h,docente_j
+6,Modelos Embedding Words x Modelos Extração de Características,docente_h,docente_v
+6,Sumarização de texto,docente_h,docente_v
+6,Como funciona?: Speech-to-text,docente_h,docente_j
+7,Sistemas de gestão empresarial,docente_a,docente_a
+7,Gestão de processos de negócios,docente_a,docente_v
+7,Mineração de processos,docente_a,docente_v
+7,Regras de negócio e tomada de decisão,docente_a,docente_j
+7,Avaliação e seleção de sistemas de informação,docente_a,docente_v
+7,Governança corporativa e de dados,docente_a,docente_j
+7,Gestão de mudanças,docente_a,docente_h
+7,Testes e cutover no contexto de sistemas empresariais,docente_a,docente_j
+7,Gestão de Stakeholders,docente_a,docente_v
+7,Implantação de sistemas,docente_a,docente_h
+7,Estratégia e gestão de serviços de TI,docente_a,docente_v
+7,Elaboração de relatórios,docente_a,docente_a
+7,Sistemas distribuídos,docente_a,docente_v
+7,Segurança em Sistemas distribuídos,docente_a,docente_v
+8,Arquitetura de dados on premisse e cloud,docente_j,docente_a
+8,"Ingestão de dados via fila, documentos e banco de dados",docente_j,docente_a
+8,Orquestração de ingestão de dados na cloud,docente_j,docente_j
+8,"Processamento, análise, limpeza e gestão de dados",docente_j,docente_j
+8,Métricas e telemetria,docente_j,docente_j
+8,Algoritimos para dados em ETLs,docente_j,docente_j
+8,Data Lakes e Data Warehouses on premisse,docente_j,docente_j
+8,Data Lakes e Data Warehouses in cloud,docente_j,docente_v
+8,Pipeline de dados e processamento de Big Data,docente_j,docente_a
+8,Data Storytelling e Visualização de Dados,docente_j,docente_v
+8,Métodos Ensemble,docente_j,docente_j
+8,Precificação de infra estrutura em nuvem,docente_j,docente_a
+8,Segurança da informação em dados,docente_j,docente_v
+8,Introdução à MLops e o ciclo de vida dos pipelines de data,docente_j,docente_h
